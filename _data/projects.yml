@@ -1,0 +1,17 @@
+intro: Major projects
+projects:
+  - project:
+    title: Kokosee App
+    tagline: "Explore any place with 360 VR videos produced by our staff, allowing you to tilt or move your phone to view any angle of anywhere! Explore with ease and comfort - See the interior of local shops, restaurants, temples, shopping malls, hotel rooms, and more!"
+  - project:
+    title: Babysitter
+    tagline: "App that finds you a local babysitter"
+  - project:
+    title: Poverty reduction and Social Protection database management
+    tagline: "National database for poverty reduction and social protection"
+  - project:
+    title: Elearning Viettel 
+    tagline: "An online learning system sponsored by Viettel"  
+  - project:
+    title: Operator 113 
+    tagline: "Managing incoming calls to 113 in many regions in Vietnam"      
